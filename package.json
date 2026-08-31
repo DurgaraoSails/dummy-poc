@@ -1,0 +1,13 @@
+{
+  "name": "dummy-poc",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Throwaway test app for exercising the self-service Cloud Run pipeline end to end.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
